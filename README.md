@@ -1,29 +1,20 @@
-# 03-vuetify
+<h1 align="center">
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="200">
+  <br><br>
+  Aplicación de Teatros
+  <br>
+</h1>
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+# Descripción
+Tecnologias usadas: VueJS (vuex, vuetify y vuelidate) y Firebase(Database, Storage, Authenticacion y Hosting).
+Autenticación interna, Google y Facebook.
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+# Capturas
 
-### Run your tests
-```
-yarn run test
-```
+### Inicio
 
-### Lints and fixes files
-```
-yarn run lint
-```
+![Image of inicio](src/assets/assets/home.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
