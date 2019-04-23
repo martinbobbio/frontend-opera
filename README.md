@@ -15,6 +15,6 @@ Autenticación interna, Google y Facebook.
 
 ### Inicio
 
-![Image of inicio](src/assets/assets/home.png)
+![Image of inicio](src/assets/home.png)
 
 
